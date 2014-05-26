@@ -1,19 +1,19 @@
 {
-  "name": "kim-extract-positive-integer",
+  "name": "kim-filter-less-than",
   "version": "0.0.0",
-  "description": "extract numerics from a string of text",
+  "description": "filter less than specified value",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lalitkapoor/kim-extract-positive-integer.git"
+    "url": "git://github.com/lalitkapoor/kim-filter-less-than.git"
   },
   "author": "Lalit Kapoor <lalitkapoor@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lalitkapoor/kim-extract-positive-integer/issues"
+    "url": "https://github.com/lalitkapoor/kim-filter-less-than/issues"
   },
-  "homepage": "https://github.com/lalitkapoor/kim-extract-positive-integer"
+  "homepage": "https://github.com/lalitkapoor/kim-filter-less-than"
 }
